@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grids_spacing">10dp</dimen>
+    <dimen name="cards_elevation">0dp</dimen>
+    <dimen name="small_components_corner_size">20dp</dimen>
+    <dimen name="cards_corner_size">25dp</dimen>
+    <dimen name="medium_components_corner_size">28dp</dimen>
+    <dimen name="large_components_corner_size">26dp</dimen>
+</resources>

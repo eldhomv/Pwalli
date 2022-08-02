@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://avatars.githubusercontent.com/u/64636539</item>
+
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Eldho MV</item>
+
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Exploring Colors and Stories</item>
+
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Telegram|Instagram</item>
+
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://t.me/eldhomv|http://instagram.com/eldhomathewvarghese</item>
+
+    </string-array>
+</resources>

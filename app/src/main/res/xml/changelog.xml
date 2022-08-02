@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version title="v1.0" />
+    <item text="Initial release" />
+    <item text="" />
+    <item text="" />
+    <item text="" /> <!-- this one is empty and therefore ignored -->
+</resources>
