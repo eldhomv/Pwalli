@@ -70,5 +70,4 @@ jobs:
           repo_token: ${{ secrets.GITH_TOKEN }}
           file: "./app/build/outputs/apk/release/${{ env.apk_file }}"
           asset_name: "Frames-${{ env.release_tag }}.apk"
-          tag: ${{ env.release_tag }}
-          overwrite: true
+
