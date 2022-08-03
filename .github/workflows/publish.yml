@@ -56,8 +56,15 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITH_TOKEN }}
-          file: "./app/build/outputs/apk/release/${{ env.apk_file }}"
+          file: "./app/build/outputs/apk/release/"
 
           asset_name: "release.apk"
           tag: 1.0
           overwrite: true
+      - name: Build Signed APK
+        uses: victorbnl/build-signed-apk@main
+        with:
+          keystore_b64: ${{ secrets.keystore }}
+          keystore_password: ${{ secrets.keystore_password }}
+          key_alias: ${{ secrets.key_alias }}
+          key_password: ${{ secrets.key_password
