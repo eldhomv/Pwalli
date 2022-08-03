@@ -3,11 +3,11 @@ name: Build
 on:
   pull_request:
     branches:
-      - sample
+      
       - master
   push:
     branches:
-      - sample
+      
       - master
 
 jobs:
@@ -45,3 +45,5 @@ jobs:
 
       - name: Build
         run: ./gradlew clean test --full-stacktrace
+
+      
