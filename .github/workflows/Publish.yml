@@ -56,10 +56,7 @@ jobs:
       - name: Build master app
         run: ./gradlew clean :app:assembleRelease --full-stacktrace
 
-      - name: Get release information
-        env:
-          GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
-        run: chmod +x ./scripts/get_release_data.sh; ./scripts/get_release_data.sh
+
 
       - name: Upload APK to release
         id: upload_apk
