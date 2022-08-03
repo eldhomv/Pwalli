@@ -67,7 +67,7 @@ jobs:
         id: upload_apk
         uses: svenstaro/upload-release-action@v2
         with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          repo_token: ${{ secrets.GITH_TOKEN }}
           file: "./app/build/outputs/apk/release/${{ env.apk_file }}"
           asset_name: "Frames-${{ env.release_tag }}.apk"
           tag: ${{ env.release_tag }}
