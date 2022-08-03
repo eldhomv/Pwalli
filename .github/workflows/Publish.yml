@@ -1,9 +1,14 @@
 name: Publish
 
 on:
-  release:
-    types:
-      - released
+  pull_request:
+    branches:
+      
+      - master
+  push:
+    branches :
+      - master
+      
 
 jobs:
   library:
