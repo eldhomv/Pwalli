@@ -44,4 +44,10 @@ jobs:
         run: chmod +x gradlew; chmod +x gradle/wrapper/gradle-wrapper.jar
 
       - name: Build
-        run: ./gradlew clean test --full-stacktrace
+        run: build apk -release
+
+      # Upload generated apk to the artifacts.
+      - uses: actions/upload-artifact@v1
+        with:
+          name: app-release.apk
+          path: build/app/outputs/apk/release/app-release.apk
