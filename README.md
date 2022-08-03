@@ -2,7 +2,7 @@
 
 * High quality vector wallpapers
 * Minimal design
-* 5 + catergories (Still Updating)
+* 5 + categories (Still Updating)
 * 100 + wallpapers (Still Updating))
 * Telegram channel
 * paid wallpapers pack available
