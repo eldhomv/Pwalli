@@ -5,11 +5,11 @@
 
 * High quality vector wallpapers
 * Minimal design
-* 5 + categories (Still Updating)
-* 100 + wallpapers (Still Updating))
-* Telegram channel
+* 10 + categories (WIP)
+* 150 + wallpapers (WIP)
+* [Telegram channel](https://ko-fi.com/s/a8e7707aa9)
 * paid wallpapers pack available
-* [Ko-Fi]() /\ [Gumroad]()
+* [Ko-Fi](https://ko-fi.com/s/a8e7707aa9) /\ [Gumroad](https://materialuwalls.gumroad.com/l/wallpaper)
 
 
 # Maintained by
