@@ -9,7 +9,7 @@
 * 150 + wallpapers (WIP)
 * [Telegram channel](https://ko-fi.com/s/a8e7707aa9)
 * paid wallpapers pack available
-* [Ko-Fi](https://ko-fi.com/s/a8e7707aa9) /\ [Gumroad](https://materialuwalls.gumroad.com/l/wallpaper)
+* [Ko-Fi](https://ko-fi.com/s/a8e7707aa9) | [Gumroad](https://materialuwalls.gumroad.com/l/wallpaper)
 
 
 # Maintained by
