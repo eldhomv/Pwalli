@@ -12,8 +12,8 @@
 
 * High quality vector wallpapers
 * Minimal design
-* 10 + categories (WIP)
-* 150 + wallpapers (WIP)
+* 15 categories (WIP)
+* 200 + wallpapers (WIP)
 * [Telegram channel](https://t.me/materialuwalls)
 * paid wallpapers pack available
 * [Ko-Fi](https://ko-fi.com/s/a8e7707aa9) | [Gumroad](https://materialuwalls.gumroad.com/l/wallpaper)
