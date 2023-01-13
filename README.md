@@ -6,7 +6,7 @@
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg)](https://github.com/eldhomv/Pwalli/releases)
 
-https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg
+
 
 # Features:
 
@@ -14,7 +14,7 @@ https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg
 * Minimal design
 * 10 + categories (WIP)
 * 150 + wallpapers (WIP)
-* [Telegram channel](https://ko-fi.com/s/a8e7707aa9)
+* [Telegram channel](https://t.me/materialuwalls)
 * paid wallpapers pack available
 * [Ko-Fi](https://ko-fi.com/s/a8e7707aa9) | [Gumroad](https://materialuwalls.gumroad.com/l/wallpaper)
 
@@ -33,7 +33,7 @@ https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg
 
 This app is shared under the CreativeCommons Attribution-ShareAlike license.
 
-    Copyright © 2020 Jahir Fiquitiva
+    Copyright © 2023
     
     Licensed under the CreativeCommons Attribution-ShareAlike 
     4.0 International License. You may not use this file except in compliance 
