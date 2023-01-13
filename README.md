@@ -1,5 +1,6 @@
 ![MKM_043656](https://user-images.githubusercontent.com/64636539/184342255-3f1c8e9c-c694-4488-96b7-82bacdd5d4b9.jpg)
 
+https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg
 
 # Features:
 
