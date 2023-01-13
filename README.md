@@ -2,7 +2,7 @@
 
 ### Total Downloads Count
 
-*TOTAL*
+
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg)](https://github.com/eldhomv/Pwalli/releases)
 
