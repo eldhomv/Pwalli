@@ -1,5 +1,11 @@
 ![MKM_043656](https://user-images.githubusercontent.com/64636539/184342255-3f1c8e9c-c694-4488-96b7-82bacdd5d4b9.jpg)
 
+### Total Downloads Count
+
+*TOTAL*
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg)](https://github.com/eldhomv/Pwalli/releases)
+
 https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg
 
 # Features:
