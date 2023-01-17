@@ -4,7 +4,7 @@
 
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/eldhomv/Pwalli/total.svg)](https://github.com/eldhomv/Pwalli/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/eldhomv/Pwalli/total?style=for-the-badge)](https://github.com/eldhomv/Pwalli/releases)
 
 
 
