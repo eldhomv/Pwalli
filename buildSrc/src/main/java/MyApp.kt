@@ -2,6 +2,6 @@
 
 object MyApp {
     const val appId = "com.eldho.pwalli"
-    const val version = 3
-    const val versionName = "1.0"
+    const val version = 6
+    const val versionName = "1.3"
 }

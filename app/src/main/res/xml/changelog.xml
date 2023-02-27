@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0" />
-    <item text="Initial release" />
-    <item text="" />
-    <item text="" />
-    <item text="" /> <!-- this one is empty and therefore ignored -->
+    <version title="v1.3" />
+    <item text="Update dependencies" />
+    <item text="Minor improvements" />
+    <item text="Better support for Android 13" />
+    <item text="Refer frames repo for detailed changelog" /> <!-- this one is empty and therefore ignored -->
 </resources>

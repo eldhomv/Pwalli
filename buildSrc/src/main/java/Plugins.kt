@@ -8,7 +8,5 @@ object Plugins {
     // KSP
     const val ksp =
         "com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin:${Versions.ksp}"
-    // OneSignal
-    const val oneSignal =
-        "gradle.plugin.com.onesignal:onesignal-gradle-plugin:${Versions.oneSignalPlugin}"
+
 }
